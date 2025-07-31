@@ -1,5 +1,7 @@
 ## JWT Token Authentication Using the .NET Core Web API
 
+A complete CRUD Web API application with Microsoft Entity Framework Core, Redis Cache and JWT Authentication.
+
 ### Quick setup
 
 ```javascript
