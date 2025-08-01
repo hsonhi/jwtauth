@@ -1,6 +1,6 @@
 ## JWT Token Authentication Using the .NET Core Web API
 
-A complete Web API application with Microsoft Entity Framework Core, Redis Cache and JWT Authentication.
+A complete Web API application with Microsoft Entity Framework Core, Redis Cache and Bearer Authentication with JWT Token.
 
 ### Quick setup
 
@@ -22,4 +22,11 @@ Create the token after providing credentials, and put it into the Authorize tab 
 <img src="jwtauth/Docs/3.png"/>
 <img src="jwtauth/Docs/4.png"/>
 <img src="jwtauth/Docs/5.png"/>
-<img src="jwtauth/Docs/6.png"/>
+<img src="jwtauth/Docs/6.png"/>   
+
+   
+### Postman
+Follow the above steps  and insert token as follow   
+
+<img src="jwtauth/Docs/7.png"/>
+
